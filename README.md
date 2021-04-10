@@ -36,7 +36,7 @@ Dabei sollen folgende Regeln gelten:
 6. Keine besonders negativ konnotierten Wörter.
 7. Das "männliche" grammatikalische Geschlecht wird bevorzugt. (Dies ist Standard bei BIP39.)
 
-Hinzu kommt ein weiterer Entwurf einer langen Diceware-Wortliste, der jedoch unabhängig von den zuvor genannten ist und noch in Arbeit ist. Er wird voraussichtlich am oder nach dem 8. Mai 2021 veröffentlicht. Für ihr sollen folgende Regeln gelten:
+Hinzu kommt ein weiterer Entwurf einer langen Diceware-Wortliste, der jedoch unabhängig von den zuvor genannten ist und noch in Arbeit ist. Er wird voraussichtlich am oder nach dem 8. Mai 2021 veröffentlicht. Für sie sollen folgende Regeln gelten:
 
 1. Wörter sind drei bis zwölf Zeichen lang.
 2. Kein Wort enthält die Zeichen ä, ö, ü und ß.
