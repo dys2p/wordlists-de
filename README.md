@@ -1,5 +1,3 @@
-_We are creating mnemonic German word lists with 1296, 1626, 2048 and 7776 words. Contributions to the shorter lists are welcome until May 7, 2021 – read on if you're good in German._
-
 # Mnemonische deutsche Wortlisten
 
 ## Was ist Diceware?
@@ -12,21 +10,21 @@ Wir möchten deshalb eine neue Liste für die deutsche Sprache zusammenstellen. 
 
 ## Monero
 
-Viele Kryptowährungen nutzen mnemonische Wortlisten, um eine Wallet zu generieren. Entgegen der Konvention enthält die [deutsche Wortliste bei Monero](https://github.com/monero-project/monero/blob/master/src/mnemonics/german.h) auch Großbuchstaben, Sonderzeichen wie ä, ö, ü und ß (wobei derartige Sonderzeichen auch in manch anderen Wortlisten enthalten sind), ein paar weniger geläufige Wörter und auch Eigennamen. Auch wenn die Einführung einer neuen Wortliste mit Aufwand verbunden ist, halten wir diese neue Liste langfristig für besser.
+Viele Kryptowährungen nutzen mnemonische Wortlisten, um eine Wallet zu generieren. Entgegen der Konvention enthält die [deutsche Wortliste bei Monero](https://github.com/monero-project/monero/blob/master/src/mnemonics/german.h) auch Großbuchstaben, Sonderzeichen wie ä, ö, ü und ß (wobei derartige Sonderzeichen auch in manch anderen Wortlisten enthalten sind), ein paar weniger geläufige Wörter und auch Eigennamen. Auch wenn die Einführung einer neuen Wortliste mit Aufwand verbunden ist, halten wir diese neue Liste langfristig für besser. Dazu haben wir Kontakt mit dem Monero-Entwicklungsteam aufgenommen.
 
 ## BIP39
 
-Trotz einer großen deutschsprachigen Community existiert bislang keine deutsche Wortliste für Kryptowährungen wie z. B. Bitcoin und Ethereum, die den Bitcoin-Wortlistenstandard [BIP39](https://github.com/bitcoin/bips/blob/master/bip-0039/bip-0039-wordlists.md) verwenden. Das möchten wir ändern.
+Trotz einer großen deutschsprachigen Community existiert bislang keine offizielle deutsche Wortliste für Kryptowährungen wie z. B. Bitcoin und Ethereum, die den Bitcoin-Wortlistenstandard [BIP39](https://github.com/bitcoin/bips/blob/master/bip-0039/bip-0039-wordlists.md) verwenden. Derzeit läuft dazu jedoch eine [Diskussion](https://github.com/bitcoin/bips/pull/1071).
 
-## Neue Listen
+## de-2048
 
-Wir schlagen vor, die Tabelle `de_2048.md` als Grundlage für folgende drei Listen zu verwenden:
+Wir haben die Tabelle `history/de_2048.md` als Grundlage für folgende drei Listen verwendet:
 
 - kurze Diceware-Liste (1296 Wörter)
 - Wortliste für Monero (1626 Wörter)
 - BIP39-Wortliste (2048 Wörter)
 
-Dabei sollen folgende Regeln gelten:
+Dabei galten folgende Regeln:
 
 1. Wörter sind vier bis acht Zeichen lang.
 2. Wörter können nach Eingabe der ersten vier Buchstaben eindeutig bestimmt werden.
@@ -36,7 +34,9 @@ Dabei sollen folgende Regeln gelten:
 6. Keine besonders negativ konnotierten Wörter.
 7. Das "männliche" grammatikalische Geschlecht wird bevorzugt. (Dies ist Standard bei BIP39.)
 
-Hinzu kommt ein weiterer Entwurf einer langen Diceware-Wortliste, der jedoch unabhängig von den zuvor genannten ist und noch in Arbeit ist. Er wird voraussichtlich am oder nach dem 8. Mai 2021 veröffentlicht. Für sie sollen folgende Regeln gelten:
+## de-7776
+
+Die Wortliste `de-7776` eignet sich als Diceware-Wortliste für fünf Würfel. Sie ist unabhängig von den zuvor genannten, die Wörter sind ab dem fünften Buchstaben eindeutig. Darüber hinaus orientiert sie sich größtenteils, jedoch nicht hundertprozentig, an diesen Regeln:
 
 1. Wörter sind drei bis zwölf Zeichen lang.
 2. Kein Wort enthält die Zeichen ä, ö, ü und ß.
@@ -44,15 +44,3 @@ Hinzu kommt ein weiterer Entwurf einer langen Diceware-Wortliste, der jedoch una
 4. Keine Eigennamen, Regionen, Religionen, Vereinigungen oder Personen.
 5. Keine besonders negativ konnotierten Wörter.
 6. Das "männliche" grammatikalische Geschlecht wird bevorzugt. (Dies ist Standard bei BIP39.)
-
-Wir haben bereits eine lange Liste mit 7776 Wörtern (`de_7776_old.txt`) erstellt, die ab dem fünften Buchstaben eindeutig sind und in manchen Punkten von den oben genannten Regeln abweicht. Wir möchten sie nicht weiter verwenden, aber vielleicht ist sie für dich nützlich.
-
-## Mitarbeit
-
-**Bis zum 7. Mai 2021 um 14:00 CET** sind Pull-Requests mit Verbesserungsvorschlägen der kurzen Liste (`de_2048.md`) willkommen. Danach werden wir sie als Version 1.0 markieren und als Pull Request in die Repositorys von [Bitcoin (BIP39)](https://github.com/bitcoin/bips/blob/master/bip-0039/bip-0039-wordlists.md) und [Monero](https://github.com/monero-project/monero/blob/master/src/mnemonics/) einreichen.
-
-Der Fokus von Verbesserungsvorschlägen sollte auf den Wörtern selbst liegen. Die Auswahl, welche der Wörter in die Listen für BIP39, Diceware und Monero kommen, behalten wir uns selbst vor.
-
-Reicht neue Wortvorschläge bitte wie folgt an passender Stelle ein:
-
-`| neueswort	|		|		|		|		|`
