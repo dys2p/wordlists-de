@@ -569,7 +569,7 @@ fahrrad
 faktor
 falke
 fallen
-FALSE
+falsch
 falter
 familie
 fangen
