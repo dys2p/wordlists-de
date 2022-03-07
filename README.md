@@ -44,3 +44,7 @@ Die Wortliste `de-7776` eignet sich als Diceware-Wortliste für fünf Würfel. S
 4. Keine Eigennamen, Regionen, Religionen, Vereinigungen oder Personen.
 5. Keine besonders negativ konnotierten Wörter.
 6. Das "männliche" grammatikalische Geschlecht wird bevorzugt. (Dies ist Standard bei BIP39.)
+
+## License
+
+This work is dual-licensed under Unlicense and CC0. You can choose between one of them if you use this work.
