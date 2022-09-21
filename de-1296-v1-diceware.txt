@@ -292,7 +292,7 @@
 2314	etage
 2315	etappe
 2316	ethik
-2321	eti­kett
+2321	etikett
 2322	eule
 2323	event
 2324	experte
@@ -516,7 +516,7 @@
 3326	hunger
 3331	hupe
 3332	husten
-3333	hy­d­rant
+3333	hydrant
 3334	idee
 3335	igel
 3336	imbiss
@@ -587,7 +587,7 @@
 3525	kiste
 3526	kittel
 3531	kiwi
-3532	klam­mer
+3532	klammer
 3533	klavier
 3534	kleben
 3535	klee
@@ -637,10 +637,10 @@
 3651	kunde
 3652	kunst
 3653	kupfer
-3654	ku­rier
+3654	kurier
 3655	kurz
 3656	kuss
-3661	kut­sche
+3661	kutsche
 3662	labor
 3663	lachen
 3664	lack
@@ -976,7 +976,7 @@
 5414	samt
 5415	sand
 5416	sardine
-5421	sa­tel­lit
+5421	satellit
 5422	sattel
 5423	sauber
 5424	sauna
@@ -1051,7 +1051,7 @@
 5621	sport
 5622	sprechen
 5623	springen
-5624	sprot­te
+5624	sprotte
 5625	sprung
 5626	spur
 5631	stabil

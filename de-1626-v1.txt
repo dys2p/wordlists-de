@@ -139,7 +139,7 @@ ausgang
 aussicht
 auswahl
 auto
-avo­ca­do
+avocado
 baby
 bach
 backen
@@ -427,7 +427,7 @@ etage
 etappe
 etat
 ethik
-eti­kett
+etikett
 eule
 euphorie
 event
@@ -704,7 +704,7 @@ hund
 hunger
 hupe
 husten
-hy­d­rant
+hydrant
 hygiene
 idee
 idyll
@@ -793,7 +793,7 @@ kissen
 kiste
 kittel
 kiwi
-klam­mer
+klammer
 klasse
 klavier
 kleben
@@ -853,12 +853,12 @@ kultur
 kunde
 kunst
 kupfer
-ku­rier
+kurier
 kurs
 kurve
 kurz
 kuss
-kut­sche
+kutsche
 labor
 lachen
 lack
@@ -1092,7 +1092,7 @@ pilot
 pilz
 pinguin
 pink
-pinn­wand
+pinnwand
 pinsel
 pinzette
 pirat
@@ -1246,7 +1246,7 @@ samt
 sand
 saniert
 sardine
-sa­tel­lit
+satellit
 sattel
 sauber
 sauer
@@ -1334,7 +1334,7 @@ sport
 sprache
 sprechen
 springen
-sprot­te
+sprotte
 sprung
 spur
 stabil

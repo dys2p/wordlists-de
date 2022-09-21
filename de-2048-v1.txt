@@ -162,7 +162,7 @@ auswahl
 auszug
 autark
 auto
-avo­ca­do
+avocado
 baby
 bach
 backen
@@ -407,7 +407,7 @@ docht
 doktor
 dokument
 dolch
-do­mi­zil
+domizil
 donner
 doppelt
 dorf
@@ -543,7 +543,7 @@ etage
 etappe
 etat
 ethik
-eti­kett
+etikett
 etliche
 eule
 euphorie
@@ -876,7 +876,7 @@ hund
 hunger
 hupe
 husten
-hy­d­rant
+hydrant
 hygiene
 ideal
 idee
@@ -913,7 +913,7 @@ jagen
 jaguar
 jahr
 januar
-jar­gon
+jargon
 jazz
 jemand
 joggen
@@ -986,7 +986,7 @@ kiste
 kittel
 kiwi
 klage
-klam­mer
+klammer
 klang
 klappe
 klar
@@ -1059,12 +1059,12 @@ kultur
 kunde
 kunst
 kupfer
-ku­rier
+kurier
 kurs
 kurve
 kurz
 kuss
-kut­sche
+kutsche
 label
 labor
 lachen
@@ -1368,7 +1368,7 @@ pilot
 pilz
 pinguin
 pink
-pinn­wand
+pinnwand
 pinsel
 pinzette
 pirat
@@ -1509,7 +1509,7 @@ rinnsaal
 risiko
 riss
 ritter
-ri­tu­al
+ritual
 ritze
 robbe
 roboter
@@ -1560,7 +1560,7 @@ sand
 sanft
 saniert
 sardine
-sa­tel­lit
+satellit
 satire
 sattel
 satz
@@ -1661,7 +1661,7 @@ sport
 sprache
 sprechen
 springen
-sprot­te
+sprotte
 sprung
 spur
 stabil
@@ -1866,7 +1866,7 @@ vanille
 variante
 vase
 vater
-ven­til
+ventil
 veranda
 verband
 verdacht
