@@ -47,4 +47,4 @@ Die Wortliste `de-7776` eignet sich als Diceware-Wortliste für fünf Würfel. S
 
 ## License
 
-This work is dual-licensed under Unlicense and CC0. You can choose between one of them if you use this work.
+This work is multi-licensed under Unlicense, CC0 and BSD-3. You can choose between one of them if you use this work.
