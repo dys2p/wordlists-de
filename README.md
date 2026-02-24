@@ -14,7 +14,7 @@ Viele Kryptowährungen nutzen mnemonische Wortlisten, um eine Wallet zu generier
 
 ## BIP39
 
-Trotz einer großen deutschsprachigen Community existiert bislang keine offizielle deutsche Wortliste für Kryptowährungen wie z. B. Bitcoin und Ethereum, die den Bitcoin-Wortlistenstandard [BIP39](https://github.com/bitcoin/bips/blob/master/bip-0039/bip-0039-wordlists.md) verwenden. Derzeit läuft dazu jedoch eine [Diskussion](https://github.com/bitcoin/bips/pull/1071).
+Trotz einer großen deutschsprachigen Community existiert bislang keine offizielle deutsche Wortliste für Kryptowährungen wie z. B. Bitcoin und Ethereum, die den Bitcoin-Wortlistenstandard [BIP39](https://github.com/bitcoin/bips/blob/master/bip-0039/bip-0039-wordlists.md) verwenden. Das letzte [Pull Request](https://github.com/bitcoin/bips/pull/1071) dazu wurde am [2. Juli 2021 geschlossen](https://github.com/bitcoin/bips/pull/1129#issuecomment-873267328) und seitdem sollen BIP39-Wortlisten über das [Word Lists Improvement Proposals](https://github.com/p2w34/wlips) eingereicht werden.
 
 ## de-2048
 
